@@ -1,0 +1,14 @@
+
+{
+  "name": "atividade-semana-01",
+  "version": "1.0.0",
+  "description": "HeroVerse - Marvel e DC com Node.js e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+
